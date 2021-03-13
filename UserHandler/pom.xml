@@ -12,7 +12,7 @@
 	<groupId>fiap.evaluation.netflix</groupId>
 	<artifactId>UserHandler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>calculadoraRest</name>
+	<name>UserHandler</name>
 	<description>Evaluation project for FIAP</description>
 
 	<properties>
